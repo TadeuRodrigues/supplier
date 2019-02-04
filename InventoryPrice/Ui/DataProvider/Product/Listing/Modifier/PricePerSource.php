@@ -135,7 +135,7 @@ class PricePerSource extends AbstractModifier
                         'sortOrder' => 78,
                         'filter' => false,
                         'sortable' => false,
-                        'label' => __('Price per Source'),
+                        'label' => __('Price per Supplier'),
                         'dataType' => Text::NAME,
                         'componentType' => Column::NAME,
                         'component' => 'Iqmosaic_InventoryPrice/js/product/grid/cell/price-per-source',
